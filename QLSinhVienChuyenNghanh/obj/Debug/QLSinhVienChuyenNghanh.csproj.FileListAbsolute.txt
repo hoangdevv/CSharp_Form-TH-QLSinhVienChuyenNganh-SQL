@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Lab05\QLSinhVienChuyenNghanh\bin\Debug\QLSinhVienChuyenNghanh.exe.config
+C:\Users\Administrator\source\repos\Lab05\QLSinhVienChuyenNghanh\bin\Debug\QLSinhVienChuyenNghanh.exe
+C:\Users\Administrator\source\repos\Lab05\QLSinhVienChuyenNghanh\bin\Debug\QLSinhVienChuyenNghanh.pdb
+C:\Users\Administrator\source\repos\Lab05\QLSinhVienChuyenNghanh\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\Lab05\QLSinhVienChuyenNghanh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\Lab05\QLSinhVienChuyenNghanh\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\Lab05\QLSinhVienChuyenNghanh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\Lab05\QLSinhVienChuyenNghanh\obj\Debug\QLSinhVienChuyenNghanh.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Lab05\QLSinhVienChuyenNghanh\obj\Debug\QLSinhVienChuyenNghanh.Form1.resources
+C:\Users\Administrator\source\repos\Lab05\QLSinhVienChuyenNghanh\obj\Debug\QLSinhVienChuyenNghanh.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Lab05\QLSinhVienChuyenNghanh\obj\Debug\QLSinhVienChuyenNghanh.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Lab05\QLSinhVienChuyenNghanh\obj\Debug\QLSinhVienChuyenNghanh.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lab05\QLSinhVienChuyenNghanh\obj\Debug\QLSinhVienChuyenNghanh.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Lab05\QLSinhVienChuyenNghanh\obj\Debug\QLSinhVienChuyenNghanh.exe
+C:\Users\Administrator\source\repos\Lab05\QLSinhVienChuyenNghanh\obj\Debug\QLSinhVienChuyenNghanh.pdb
+C:\Users\Administrator\source\repos\Lab05\QLSinhVienChuyenNghanh\obj\Debug\QLSinhVienChuyenNghanh.Form2.resources
